@@ -1,2 +1,2 @@
 # gitflow-example
-This repo is an example for gitflow branching startegy
+This is an example of gitflow branching strategy
